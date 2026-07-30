@@ -1,3 +1,15 @@
+# Nuked-SC55 Android
+
+An unofficial Android port of Nuked-SC55. optimized for ARM devices and low-latency MIDI synthesis.
+
+Based on Nuked-SC55 by jcmoyer and its contributors.
+This project is distributed under the original MAME non-commercial license.
+
+This project is not affiliated with or endorsed by Roland Corporation.
+
+Firmware and wave ROM files are not included. Users must provide legally
+obtained ROM images from hardware they own.
+
 # Nuked SC-55
 
 Fork of [nukeykt/Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) with the

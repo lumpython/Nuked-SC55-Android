@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+    <device manufacturer="Nuked SC-55 Android" product="SC-55 Synth" private="false">
+        <input-port name="MIDI IN" />
+    </device>
+</devices>

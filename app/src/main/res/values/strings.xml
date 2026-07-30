@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nuked SC-55</string>
+    <string name="app_title">NUKED SC-55</string>
+    <string name="app_subtitle">Mobile GS sound module</string>
+    <string name="oversampling_short">HQ 2×</string>
+    <string name="rom_file_count">ROM 文件：%1$d</string>
+    <string name="notification_channel">SC-55 audio engine</string>
+    <string name="notification_running">SC-55 synthesizer is running</string>
+</resources>

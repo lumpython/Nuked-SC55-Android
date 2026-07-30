@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.NukedSC55" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:navigationBarColor">#08090B</item>
+        <item name="android:statusBarColor">#111317</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#A8D858</item>
+    </style>
+</resources>

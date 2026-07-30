@@ -1,0 +1,1 @@
+-keep class com.nukedsc55.android.NativeBridge { *; }
